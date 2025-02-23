@@ -1,8 +1,8 @@
 const fs = require('fs')
 //~~~~~~~~~SETTING BOT~~~~~~~~~~//
-global.owner = "263785335562"
-global.name = "Prexzy"
-global.ch = 'https://whatsapp.com/channel/0029VapyPnMKAwEk3YuHAb3s'
+global.owner = "393291958600"
+global.name = "NexusTrappy"
+global.ch = 'https://whatsapp.com/channel/'
 global.status = true
 
 global.mess = {
@@ -12,7 +12,7 @@ global.mess = {
 }
 
 global.packname = 'PREXZY-BUG-V4'
-global.author = 'Precious Ayomide'
+global.author = 'Nexus'
 
 global.pairing = "PREXZY"
 
